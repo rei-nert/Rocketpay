@@ -1,4 +1,4 @@
-defmodule :"Elixir.Rocketpay.Repo.Migrations.CreateUserTable.exs" do
+defmodule :"Elixir.Rocketpay.Repo.Migrations.CreateUserTable" do
   use Ecto.Migration
 
   def change do
